@@ -1,0 +1,63 @@
+# VL-Gothic-font
+Solution to an error message "unable to find the VL Gothic Font" for RPG Maker VX Ace game
+
+Put this folder inside the game folder.
+
+Extract fonts folder and see if it works without font error.
+
+Inside fonts folder should have-
+
+VLGothic | File folder<br>
+VL-Gothic-Regular | TrueType font file<br>
+VL-PGothic-Regular | TrueType font file<br>
+
+---
+
+VL ゴシックフォントファミリライセンス
+-------------------------------------
+
+M+ FONTS 由来の部分については、M+ FONTS PROJECT のライセンスが適用されます。
+添付の LICENSE_J.mplus を参照してください。
+
+さざなみゴシックフォント由来の部分およびそれらの部品を元に改変した一部の文字
+については、さざなみフォントと同様に修正BSDライセンスとします。オリジナルの
+さざなみフォントのライセンスについては添付の README.sazanami を参照してくだ
+さい。
+
+その他　VL ゴシックフォントファミリで独自に追加した文字、および M+フォント
+の部品を元に独自に作成した文字(2007/05/06以降に修正した漢字および記号)はM+
+フォントと同じライセンスを摘要します。
+
+なお、文書への埋め込みなど、フォントとしての再使用を目的としない用途におい
+ては、以下で言う Redistribution には当たらず、制限なく行えるものとします。
+
+Copyright (c) 1990-2003 Wada Laboratory, the University of Tokyo.<br>
+Copyright (c) 2003-2004 Electronic Font Open Laboratory (/efont/).<br>
+Copyright (C) 2002-2011 M+ FONTS PROJECT<br>
+Copyright (C) 2006-2011 Daisuke SUZUKI <daisuke@vinelinux.org>.<br>
+Copyright (C) 2006-2011 Project Vine <Vine@vinelinux.org>.<br>
+All rights reserved.<br>
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+3. Neither the name of the Wada Laboratory, the University of Tokyo nor
+   the names of its contributors may be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY WADA LABORATORY, THE UNIVERSITY OF TOKYO AND
+CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE LABORATORY OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
